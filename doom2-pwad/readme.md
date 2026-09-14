@@ -4,6 +4,8 @@ The Ultimate Power Struggle ][ by Eric Sambach
 
 Bigfight Deathmatch by Steve Lamb
 
+Cremation by Phil Leverance
+
 Enjay Doom 2 by Enjay
 
 IFRAG.WAD by unknown author
