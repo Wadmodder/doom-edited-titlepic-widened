@@ -6,7 +6,9 @@ Grenade Weapon Patch by Douglas Beck
 
 Newdoom.wad by unknown author
 
-Nightfall by Josh Fallon 
+Nightfall by Josh Fallon
+
+Proxyon Military Base by Scott McNutt
 
 Serenity, Eternity & Infinity by Bjorn Hermans and Holger Nathrath
 
