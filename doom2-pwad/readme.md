@@ -11,3 +11,5 @@ IFRAG.WAD by unknown author
 MerDoom II by AceWingMan aka Brent Ted Peterson
 
 U_TALON by unknown author
+
+ZINJJ by unknown author
