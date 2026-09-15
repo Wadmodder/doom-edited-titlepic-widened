@@ -12,6 +12,8 @@ Enjay Doom 2 by Enjay
 
 IFRAG.WAD by unknown author
 
+KOOLEST by Brian Baker and Rob Maxey
+
 MerDoom II by AceWingMan aka Brent Ted Peterson
 
 Odessa series by Bob Evans
