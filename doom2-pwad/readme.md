@@ -14,6 +14,8 @@ IFRAG.WAD by unknown author
 
 MerDoom II by AceWingMan aka Brent Ted Peterson
 
+Odessa series by Bob Evans
+
 U_TALON by unknown author
 
 ZINJJ by unknown author
