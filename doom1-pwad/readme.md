@@ -10,6 +10,8 @@ Grenade Weapon Patch by Douglas Beck
 
 Newdoom.wad by unknown author
 
+NewDoom v1.10 Graphics Patch by KM Software
+
 Nightfall by Josh Fallon
 
 Proxyon Military Base by Scott McNutt
