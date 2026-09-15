@@ -6,6 +6,8 @@ Bigfight Deathmatch by Steve Lamb
 
 Cremation by Phil Leverance
 
+DM2INFIN.WAD by unknown author
+
 Edna by Craig Johnson
 
 Enjay Doom 2 by Enjay
