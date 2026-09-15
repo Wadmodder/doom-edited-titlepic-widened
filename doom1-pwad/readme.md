@@ -1,5 +1,7 @@
 List of Doom 1 PWADs covered:
 
+Cringe by Mark Klem & Eric Sargent
+
 Doom 3 Mr. Smiley Head Safari by Impact Software
 
 Forest Valley and OTTAWAU by Jean-Serge Gagnon
