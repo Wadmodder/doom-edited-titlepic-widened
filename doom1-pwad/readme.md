@@ -2,6 +2,8 @@ List of Doom 1 PWADs covered:
 
 AMFDOOM by AMFler
 
+Boom v2.3 by Shawn Prest
+
 Cringe by Mark Klem & Eric Sargent
 
 Doom 3 Mr. Smiley Head Safari by Impact Software
