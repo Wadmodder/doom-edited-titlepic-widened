@@ -16,6 +16,8 @@ IFRAG.WAD by unknown author
 
 KOOLEST by Brian Baker and Rob Maxey
 
+Lego Base (including Enhanced and Original Cut) by Russell Pearson
+
 MerDoom II by AceWingMan aka Brent Ted Peterson
 
 Odessa series by Bob Evans
