@@ -4,6 +4,8 @@ AMFDOOM by AMFler
 
 Boom v2.3 by Shawn Prest
 
+Commander BearCorp TC by Jonathan "Topgun" Washburn
+
 Cringe by Mark Klem & Eric Sargent
 
 Doom 3 Mr. Smiley Head Safari by Impact Software
