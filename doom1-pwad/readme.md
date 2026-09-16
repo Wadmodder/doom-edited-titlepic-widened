@@ -6,6 +6,8 @@ Boom v2.3 by Shawn Prest
 
 Commander BearCorp TC by Jonathan "Topgun" Washburn
 
+Crash by GoldenHog
+
 Cringe by Mark Klem & Eric Sargent
 
 Doom 3 Mr. Smiley Head Safari by Impact Software
