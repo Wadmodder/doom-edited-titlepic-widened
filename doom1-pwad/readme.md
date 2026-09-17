@@ -22,7 +22,7 @@ NewDoom v1.10 Graphics Patch by KM Software
 
 Nightfall by Josh Fallon
 
-Proxyon Military Base by Scott McNutt
+Proxyon Military Base and Control Station KGx/57 (Doom 1 Conversion) by Scott McNutt
 
 Shades by unknown author
 
