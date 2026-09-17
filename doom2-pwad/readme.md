@@ -2,6 +2,8 @@ List of Doom 2 PWADs covered:
 
 The Ultimate Power Struggle ][ by Eric Sambach
 
+Antares by Doug Ryerson
+
 Bigfight Deathmatch by Steve Lamb
 
 Cremation by Phil Leverance
