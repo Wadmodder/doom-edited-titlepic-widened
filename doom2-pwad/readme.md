@@ -6,6 +6,8 @@ Antares by Doug Ryerson
 
 Bigfight Deathmatch by Steve Lamb
 
+Carnage, Hans Island, Proxyon Sector KGx/57 mini Episode, Proxyon Military Base, Attack Station KGx/57, Fists of Fury and Control Station KGx/57 (Single-Player & Deathmatch) by Scott McNutt
+
 Cremation by Phil Leverance
 
 DM2INFIN.WAD by unknown author
