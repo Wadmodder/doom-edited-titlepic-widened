@@ -24,6 +24,8 @@ MerDoom II by AceWingMan aka Brent Ted Peterson
 
 Odessa series by Bob Evans
 
+Space23 by Martin P.W. Rudolph
+
 The Final Geometry and Polygon Base by Rick Lipsey
 
 U_TALON by unknown author
