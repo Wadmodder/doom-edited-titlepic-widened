@@ -18,6 +18,8 @@ Enjay Doom 2 by Enjay
 
 The Gods of Sin by Lord J
 
+Herian 1 & 2 by Ian Wilson
+
 IFRAG.WAD by unknown author
 
 KOOLEST by Brian Baker and Rob Maxey
