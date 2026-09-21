@@ -32,6 +32,8 @@ Space23 by Martin P.W. Rudolph
 
 The Final Geometry and Polygon Base by Rick Lipsey
 
+TRECIAS by Donatas Tamonis
+
 U_TALON by unknown author
 
 ZINJJ by unknown author
