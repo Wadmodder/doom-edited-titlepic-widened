@@ -30,6 +30,8 @@ MerDoom II by AceWingMan aka Brent Ted Peterson
 
 Odessa series by Bob Evans
 
+Phoenix3 AKA DoomZaak by R.L.L. Timmermans
+
 Space23 by Martin P.W. Rudolph
 
 The Final Geometry and Polygon Base by Rick Lipsey
