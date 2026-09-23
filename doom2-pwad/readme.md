@@ -12,6 +12,8 @@ Carnage, Hans Island, Proxyon Sector KGx/57 mini Episode, Proxyon Military Base,
 
 Cremation by Phil Leverance
 
+DM2EPS by Holger W.
+
 DM2INFIN.WAD by unknown author
 
 Edna by Craig Johnson
@@ -25,6 +27,8 @@ The HEllValley's WADFile by KillerByte
 Herian 1 & 2 by Ian Wilson
 
 IFRAG.WAD by unknown author
+
+Kaoswar by Sartori
 
 KOOLEST by Brian Baker and Rob Maxey
 
@@ -44,10 +48,14 @@ Surge DM by Nick Baker
 
 SwarmDMX by Jason
 
+Swarming! by Jason
+
 The Final Geometry and Polygon Base by Rick Lipsey
 
 TRECIAS by Donatas Tamonis
 
 U_TALON by unknown author
+
+Vire35 by Peter Redutko
 
 ZINJJ by unknown author
