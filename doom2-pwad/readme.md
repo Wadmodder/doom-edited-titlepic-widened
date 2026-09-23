@@ -56,6 +56,8 @@ TRECIAS by Donatas Tamonis
 
 U_TALON by unknown author
 
+UACOMM2 by Minotaur
+
 Vire35 by Peter Redutko
 
 ZINJJ by unknown author
