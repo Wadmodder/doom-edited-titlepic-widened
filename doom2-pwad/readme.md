@@ -1,5 +1,7 @@
 List of Doom 2 PWADs covered:
 
+3 Guyz With Gunz, 2.1 by 	t.Vere
+
 The Ultimate Power Struggle ][ by Eric Sambach
 
 Antares by Doug Ryerson
