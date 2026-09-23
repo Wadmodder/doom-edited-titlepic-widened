@@ -38,6 +38,8 @@ Phoenix3 AKA DoomZaak by R.L.L. Timmermans
 
 Space23 by Martin P.W. Rudolph
 
+SwarmDMX by Jason
+
 The Final Geometry and Polygon Base by Rick Lipsey
 
 TRECIAS by Donatas Tamonis
