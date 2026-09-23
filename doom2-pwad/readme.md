@@ -20,6 +20,8 @@ Enjay Doom 2 by Enjay
 
 The Gods of Sin by Lord J
 
+The HEllValley's WADFile by KillerByte
+
 Herian 1 & 2 by Ian Wilson
 
 IFRAG.WAD by unknown author
