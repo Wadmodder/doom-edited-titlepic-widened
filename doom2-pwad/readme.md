@@ -12,6 +12,8 @@ Bigfight Deathmatch by Steve Lamb
 
 Carnage, Hans Island, Proxyon Sector KGx/57 mini Episode, Proxyon Military Base, Attack Station KGx/57, Fists of Fury and Control Station KGx/57 (Single-Player & Deathmatch) by Scott McNutt
 
+Catharsis by David Butler
+
 Cremation by Phil Leverance
 
 DM2EPS by Holger W.
