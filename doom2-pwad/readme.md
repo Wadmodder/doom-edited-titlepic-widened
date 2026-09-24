@@ -20,7 +20,11 @@ Edna by Craig Johnson
 
 Enjay Doom 2 by Enjay
 
+GAK1 by GAK
+
 The Gods of Sin by Lord J
+
+Hell's Core by (\/)&(\/) |\/|/\|\| Software
 
 The HEllValley's WADFile by KillerByte
 
