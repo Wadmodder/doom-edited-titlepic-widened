@@ -3,3 +3,5 @@ Alternate widescreen assets for the following PWADs with earlier or alternate re
 List of PWADs covered
 
 Forest Valley and OTTAWAU by Jean-Serge Gagnon
+
+GAK1 by GAK
