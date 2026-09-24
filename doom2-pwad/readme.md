@@ -26,6 +26,8 @@ Enjay Doom 2 by Enjay
 
 GAK1 by GAK
 
+GMC.WAD by Grant Marko
+
 The Gods of Sin by Lord J
 
 Hell's Core by (\/)&(\/) |\/|/\|\| Software
