@@ -4,6 +4,8 @@ List of Doom 2 PWADs covered:
 
 The Ultimate Power Struggle ][ by Eric Sambach
 
+AHell by Adam Ward & Todd Starling
+
 Antares by Doug Ryerson
 
 Bigfight Deathmatch by Steve Lamb
