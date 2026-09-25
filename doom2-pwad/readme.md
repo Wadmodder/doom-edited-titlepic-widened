@@ -24,6 +24,8 @@ Edna by Craig Johnson
 
 Enjay Doom 2 by Enjay
 
+Fort Frag by Neil Basso (Dr.Death) and David Dyess (Damage INC.)
+
 GAK1 by GAK
 
 GMC.WAD by Grant Marko
@@ -45,6 +47,8 @@ KOOLEST by Brian Baker and Rob Maxey
 The Last Marine (Doom X 1997 beta) by Melvin Flynt
 
 Lego Base (including Enhanced and Original Cut) by Russell Pearson
+
+Lounge_2 by MéKä
 
 MerDoom II by AceWingMan aka Brent Ted Peterson
 
