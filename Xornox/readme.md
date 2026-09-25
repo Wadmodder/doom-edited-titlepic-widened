@@ -1,6 +1,6 @@
 Day of Xornox WADs that have given Widescreen graphics
 
-Forest Boss
+The Forest Fiend (AKA Forest Boss)
 
 The Ice World
 
