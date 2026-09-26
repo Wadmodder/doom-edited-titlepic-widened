@@ -38,6 +38,8 @@ Hell's Core by (\/)&(\/) |\/|/\|\| Software
 
 The HEllValley's WADFile by KillerByte
 
+HAIGHT2 by unknown author
+
 Herian 1 & 2 by Ian Wilson
 
 IFRAG.WAD by unknown author
