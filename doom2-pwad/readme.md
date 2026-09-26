@@ -14,8 +14,6 @@ Carnage, Hans Island, Proxyon Sector KGx/57 mini Episode, Proxyon Military Base,
 
 Catharsis by David Butler
 
-Courage of the Lion v0.2 by MIKEsoft
-
 Cremation by Phil Leverance
 
 DM2EPS by Holger W.
