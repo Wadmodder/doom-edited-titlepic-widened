@@ -58,6 +58,8 @@ Odessa series by Bob Evans
 
 Phoenix3 AKA DoomZaak by R.L.L. Timmermans
 
+The Savage Series by Creature (Dan Tyrrell)
+
 Space23 by Martin P.W. Rudolph
 
 Surge DM by Nick Baker
