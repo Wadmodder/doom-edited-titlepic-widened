@@ -24,6 +24,10 @@ Catharsis by David Butler
 
 Cremation by Phil Leverance
 
+Cult of the Apocalypse by Ric Blackman & Dead Cat Productions
+
+Damnation Alley by Emilio Galasso
+
 Dark Covenant by Keith Phipps
 
 DM2EPS by Holger W.
