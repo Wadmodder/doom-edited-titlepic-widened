@@ -1,5 +1,7 @@
 List of Doom 2 PWADs covered:
 
+1_6TRON by Trond Schjelderup
+
 3 Guyz With Gunz, 2.1 by 	t.Vere
 
 4 Towers Revision 2 by Jeff Larson
@@ -68,11 +70,17 @@ Odessa series by Bob Evans
 
 Phoenix3 AKA DoomZaak by R.L.L. Timmermans
 
+Psych01 by Jas
+
 The Savage Series by Creature (Dan Tyrrell)
+
+SB27 (2FIFFY3) by George Fiffy
 
 SJ-WANGO by (T2D)Jerms and Cozmo69
 
 Space23 by Martin P.W. Rudolph
+
+Star Ship ATC by Kyle Smith
 
 Surge DM by Nick Baker
 
