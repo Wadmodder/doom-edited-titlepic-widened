@@ -18,6 +18,8 @@ Catharsis by David Butler
 
 Cremation by Phil Leverance
 
+Dark Covenant by Keith Phipps
+
 DM2EPS by Holger W.
 
 DM2INFIN.WAD by unknown author
