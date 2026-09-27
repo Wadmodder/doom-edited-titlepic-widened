@@ -4,11 +4,15 @@ List of Doom 2 PWADs covered:
 
 4 Towers Revision 2 by Jeff Larson
 
+32 Death-Match Wad by Tom Sanner
+
 The Ultimate Power Struggle ][ by Eric Sambach
 
 AHell by Adam Ward & Todd Starling
 
 Antares by Doug Ryerson
+
+Auto-Player/Thug by Ugwad
 
 Bigfight Deathmatch by Steve Lamb
 
@@ -33,6 +37,8 @@ Fort Frag by Neil Basso (Dr.Death) and David Dyess (Damage INC.)
 GAK1 by GAK
 
 GMC.WAD by Grant Marko
+
+The Flynest by The Flymaster
 
 The Gods of Sin by Lord J
 
