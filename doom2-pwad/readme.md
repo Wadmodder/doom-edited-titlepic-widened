@@ -62,6 +62,8 @@ Phoenix3 AKA DoomZaak by R.L.L. Timmermans
 
 The Savage Series by Creature (Dan Tyrrell)
 
+SJ-WANGO by (T2D)Jerms and Cozmo69
+
 Space23 by Martin P.W. Rudolph
 
 Surge DM by Nick Baker
