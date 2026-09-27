@@ -2,6 +2,8 @@ List of Doom 2 PWADs covered:
 
 3 Guyz With Gunz, 2.1 by 	t.Vere
 
+4 Towers Revision 2 by Jeff Larson
+
 The Ultimate Power Struggle ][ by Eric Sambach
 
 AHell by Adam Ward & Todd Starling
