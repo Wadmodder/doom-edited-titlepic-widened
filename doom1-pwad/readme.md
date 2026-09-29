@@ -35,3 +35,5 @@ Tibet by Keith Sheehan
 Urbnbeta by Frederick J Bradley, Robert Bradley, Ryan Louie
 
 Warehouse by Pablo Dictter
+
+Wicked Barons & Spectres by Michael Lundy
