@@ -30,6 +30,8 @@ Damnation Alley by Emilio Galasso
 
 Dark Covenant by Keith Phipps
 
+DeathMatch By Mike by Michael Lundy
+
 DM2EPS by Holger W.
 
 DM2INFIN.WAD by unknown author
@@ -63,6 +65,8 @@ Kaoswar by Sartori
 KOOLEST by Brian Baker and Rob Maxey
 
 The Last Marine (Doom X 1997 beta) by Melvin Flynt
+
+LCS by Leif Muffett
 
 Lego Base (including Enhanced and Original Cut) by Russell Pearson
 
