@@ -34,6 +34,8 @@ DeathMatch By Mike by Michael Lundy
 
 Decade by Russell Pearson
 
+Demon Abundance by Eugene Sloupsky a.k.a. DarkJedi188
+
 DM2EPS by Holger W.
 
 DM2INFIN.WAD by unknown author
