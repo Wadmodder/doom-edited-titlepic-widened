@@ -32,6 +32,8 @@ Dark Covenant by Keith Phipps
 
 DeathMatch By Mike by Michael Lundy
 
+Decade by Russell Pearson
+
 DM2EPS by Holger W.
 
 DM2INFIN.WAD by unknown author
