@@ -82,6 +82,8 @@ Lounge_2 by MéKä
 
 MerDoom II by AceWingMan aka Brent Ted Peterson
 
+Murderous Intent by Jay Townsend
+
 Odessa series by Bob Evans
 
 Phoenix3 AKA DoomZaak by R.L.L. Timmermans
