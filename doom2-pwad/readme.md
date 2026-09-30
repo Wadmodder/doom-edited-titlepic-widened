@@ -60,6 +60,8 @@ Herian 1 & 2 by Ian Wilson
 
 IFRAG.WAD by unknown author
 
+The Illness by Echo
+
 Kaoswar by Sartori
 
 KOOLEST by Brian Baker and Rob Maxey
@@ -80,6 +82,8 @@ Odessa series by Bob Evans
 
 Phoenix3 AKA DoomZaak by R.L.L. Timmermans
 
+Planetfall by Andy Brewood
+
 Psych01 by Jas
 
 The Savage Series by Creature (Dan Tyrrell)
@@ -91,6 +95,8 @@ SJ-WANGO by (T2D)Jerms and Cozmo69
 Space23 by Martin P.W. Rudolph
 
 Star Ship ATC by Kyle Smith
+
+Station Alpha Omega by Giac Veltri
 
 Subjugated by Jeff Tunink
 
