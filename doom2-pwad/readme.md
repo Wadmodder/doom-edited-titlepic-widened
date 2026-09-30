@@ -64,6 +64,8 @@ Kaoswar by Sartori
 
 KOOLEST by Brian Baker and Rob Maxey
 
+Labyrinth of Reckless Thoughts by Gereon P.J. Meuser
+
 The Last Marine (Doom X 1997 beta) by Melvin Flynt
 
 LCS by Leif Muffett
