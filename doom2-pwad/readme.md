@@ -118,4 +118,6 @@ UACOMM2 by Minotaur
 
 Vire35 by Peter Redutko
 
+Waterworld by Steve Schulte
+
 ZINJJ by unknown author
