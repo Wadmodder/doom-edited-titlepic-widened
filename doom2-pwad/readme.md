@@ -16,6 +16,8 @@ Antares by Doug Ryerson
 
 Auto-Player/Thug by Ugwad
 
+A Visit To Atari Hell by Greg LaBrec
+
 Bigfight Deathmatch by Steve Lamb
 
 Carnage, Hans Island, Proxyon Sector KGx/57 mini Episode, Proxyon Military Base, Attack Station KGx/57, Fists of Fury and Control Station KGx/57 (Single-Player & Deathmatch) by Scott McNutt
