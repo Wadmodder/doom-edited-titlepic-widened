@@ -126,6 +126,8 @@ UACOMM2 by Minotaur
 
 Vire35 by Peter Redutko
 
+Wadpak01 (Digital Warfare) by unknown author
+
 Waterworld by Steve Schulte
 
 ZINJJ by unknown author
