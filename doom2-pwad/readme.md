@@ -14,6 +14,8 @@ AHell by Adam Ward & Todd Starling
 
 Antares by Doug Ryerson
 
+The Armory Deathmatch by Michael Niggel
+
 Auto-Player/Thug by Ugwad
 
 A Visit To Atari Hell by Greg LaBrec
@@ -23,6 +25,8 @@ Bigfight Deathmatch by Steve Lamb
 Carnage, Hans Island, Proxyon Sector KGx/57 mini Episode, Proxyon Military Base, Attack Station KGx/57, Fists of Fury and Control Station KGx/57 (Single-Player & Deathmatch) by Scott McNutt
 
 Catharsis by David Butler
+
+The Chaingun Castle by Phil Purbrick
 
 Cremation by Phil Leverance
 
@@ -83,6 +87,8 @@ Lego Base (including Enhanced and Original Cut) by Russell Pearson
 Lounge_2 by MéKä
 
 MerDoom II by AceWingMan aka Brent Ted Peterson
+
+The Military Base by Ilkka Kunttu
 
 Murderous Intent by Jay Townsend
 
