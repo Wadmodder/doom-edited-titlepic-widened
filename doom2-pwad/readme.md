@@ -110,6 +110,8 @@ SJ-WANGO by (T2D)Jerms and Cozmo69
 
 Space23 by Martin P.W. Rudolph
 
+Spooky Doom The Deathmatch (2SPOOK35) by Adam Williamson
+
 Star Ship ATC by Kyle Smith
 
 Station Alpha Omega by Giac Veltri
