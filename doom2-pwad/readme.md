@@ -120,6 +120,8 @@ The Final Geometry and Polygon Base by Rick Lipsey
 
 TRECIAS by Donatas Tamonis
 
+Twilight Warrior and Covert Operations by Black Shadow Software
+
 U_TALON by unknown author
 
 UACOMM2 by Minotaur
