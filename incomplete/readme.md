@@ -4,4 +4,6 @@ WADs with only a few widescreen graphics available are as follows:
 
 Lucifer by T.J. Hiller
 
+Sky Lab v1.51 by Marc J.S.
+
 The Phobos Compound - Beta 0.6 by Peter Weatherby
