@@ -30,6 +30,8 @@ Catharsis by David Butler
 
 The Chaingun Castle by Phil Purbrick
 
+Cobug Deathmath V1.3 by unknown author
+
 Cremation by Phil Leverance
 
 Cult of the Apocalypse by Ric Blackman & Dead Cat Productions
