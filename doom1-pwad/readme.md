@@ -6,7 +6,7 @@ BBSND by Stefan Welker
 
 Boom v2.3 by Shawn Prest
 
-Cobug Deathmath V1.1 by unknown author
+Cobug Deathmatch V1.1 by unknown author
 
 Commander BearCorp TC by Jonathan "Topgun" Washburn
 
