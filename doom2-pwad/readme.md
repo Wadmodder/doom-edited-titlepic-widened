@@ -30,7 +30,7 @@ Catharsis by David Butler
 
 The Chaingun Castle by Phil Purbrick
 
-Cobug Deathmath V1.3 by unknown author
+Cobug Deathmatch V1.3 by unknown author
 
 Cremation by Phil Leverance
 
