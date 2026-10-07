@@ -10,6 +10,8 @@ List of Doom 2 PWADs covered:
 
 The Ultimate Power Struggle ][ by Eric Sambach
 
+ABSOLOM by Peter Wittkamp
+
 AHell by Adam Ward & Todd Starling
 
 Antares by Doug Ryerson
@@ -105,6 +107,8 @@ Psych01 by Jas
 The Savage Series by Creature (Dan Tyrrell)
 
 SB27 (2FIFFY3) by George Fiffy
+
+SEMATIC by Insane LTD
 
 SJ-WANGO by (T2D)Jerms and Cozmo69
 
