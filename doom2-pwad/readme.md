@@ -96,6 +96,8 @@ Metamorphism by Brad Spencer and Karthik Abhiram
 
 MerDoom II by AceWingMan aka Brent Ted Peterson
 
+Mike's version of HOBOKEN by Michael Lundy
+
 The Military Base by Ilkka Kunttu
 
 Murderous Intent by Jay Townsend
