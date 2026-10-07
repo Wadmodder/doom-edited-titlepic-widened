@@ -90,6 +90,8 @@ Lego Base (including Enhanced and Original Cut) by Russell Pearson
 
 Lounge_2 by MéKä
 
+Metamorphism by Brad Spencer and Karthik Abhiram
+
 MerDoom II by AceWingMan aka Brent Ted Peterson
 
 The Military Base by Ilkka Kunttu
@@ -137,6 +139,8 @@ TRECIAS by Donatas Tamonis
 Twilight Warrior and Covert Operations by Black Shadow Software
 
 U_TALON by unknown author
+
+U.A.C. Power Station by John D. Corrado a.k.a. DOOMFLYNN
 
 UACOMM2 by Minotaur
 
