@@ -14,7 +14,7 @@ ABSOLOM by Peter Wittkamp
 
 AHell by Adam Ward & Todd Starling
 
-Antares by Doug Ryerson
+Antares & Heavy Fight by Doug Ryerson
 
 The Armory Deathmatch by Michael Niggel
 
