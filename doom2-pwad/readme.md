@@ -34,6 +34,8 @@ The Cobra Episodes (Volumes 1, 2 & 3) by Cobra Computing
 
 Cobug Deathmatch V1.3 by unknown author
 
+Cobug Deathmatch II Closer To Hell by Unknown Author
+
 Cremation by Phil Leverance
 
 Cult of the Apocalypse by Ric Blackman & Dead Cat Productions
@@ -51,6 +53,10 @@ Demon Abundance by Eugene Sloupsky a.k.a. DarkJedi188
 DM2EPS by Holger W.
 
 DM2INFIN.WAD by unknown author
+
+DMATCHES version 2.3 by Iikka "Fingers" Keränen
+
+Doomed 2 Die by Randy Everett
 
 Edna by Craig Johnson
 
