@@ -92,6 +92,8 @@ Lego Base (including Enhanced and Original Cut) by Russell Pearson
 
 Lounge_2 by MéKä
 
+Massacre by Ryan Wood & David Hosei
+
 Metamorphism by Brad Spencer and Karthik Abhiram
 
 MerDoom II by AceWingMan aka Brent Ted Peterson
