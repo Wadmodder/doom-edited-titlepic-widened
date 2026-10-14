@@ -68,6 +68,8 @@ Fort Frag by Neil Basso (Dr.Death) and David Dyess (Damage INC.)
 
 GAK1 by GAK
 
+Geeky Doom II by unknown author
+
 GMC.WAD by Grant Marko
 
 The Flynest by The Flymaster
