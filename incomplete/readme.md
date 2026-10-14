@@ -4,6 +4,8 @@ WADs with only a few widescreen graphics available are as follows:
 
 After Nightfalls by Daniel Gimmer (Tormentor667)
 
+Geek5 "The Destruction of Dan Goldman V.5" by Bork the Indestructible
+
 Lucifer by T.J. Hiller
 
 Mariko Kouda DOOM ][ by	Yukio Ide
