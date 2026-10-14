@@ -8,6 +8,8 @@ Lucifer by T.J. Hiller
 
 Mariko Kouda DOOM ][ by	Yukio Ide
 
+Necromania! by James Blachly and Brandon Goza
+
 Sky Lab v1.51 by Marc J.S.
 
 The Phobos Compound - Beta 0.6 by Peter Weatherby
