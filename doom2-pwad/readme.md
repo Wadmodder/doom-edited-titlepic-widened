@@ -64,6 +64,8 @@ Enjay Doom 2 by Enjay
 
 Escape From Doom2 (Snake1) by Marc Bright
 
+Eternal Doom by Team Eternal
+
 Fort Frag by Neil Basso (Dr.Death) and David Dyess (Damage INC.)
 
 GAK1 by GAK
