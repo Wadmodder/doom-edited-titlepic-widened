@@ -118,7 +118,7 @@ Murderous Intent by Jay Townsend
 
 Odessa series by Bob Evans
 
-The Odyssey by John Adlington
+The Odyssey by John Adlington for PC Gamer Magazine
 
 PARANOID Deathmatch level #4 by Richard Jaspars 'Styx'
 
