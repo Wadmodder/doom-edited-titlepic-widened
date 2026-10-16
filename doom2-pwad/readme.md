@@ -118,6 +118,8 @@ Murderous Intent by Jay Townsend
 
 Odessa series by Bob Evans
 
+The Odyssey by John Adlington
+
 PARANOID Deathmatch level #4 by Richard Jaspars 'Styx'
 
 Phoenix3 AKA DoomZaak by R.L.L. Timmermans
