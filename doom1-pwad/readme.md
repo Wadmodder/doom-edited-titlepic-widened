@@ -16,6 +16,8 @@ Cringe by Mark Klem & Eric Sargent
 
 Doom 3 Mr. Smiley Head Safari by Impact Software
 
+Doom Network Menu System by Jason Sandlin
+
 Forest Valley and OTTAWAU by Jean-Serge Gagnon
 
 Grenade Weapon Patch by Douglas Beck
