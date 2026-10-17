@@ -78,6 +78,8 @@ The Flynest by The Flymaster
 
 The Gods of Sin by Lord J
 
+Halloween DOOM by Carl Schrammel, Steve Belinkoff & Jeremy Nimmer
+
 Hell's Core by (\/)&(\/) |\/|/\|\| Software
 
 The HEllValley's WADFile by KillerByte
