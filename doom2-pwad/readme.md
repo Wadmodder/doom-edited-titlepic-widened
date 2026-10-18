@@ -22,7 +22,11 @@ Auto-Player/Thug by Ugwad
 
 A Visit To Atari Hell by Greg LaBrec
 
+The Awful Monastery (Redking) by Gereon P.J. Meuser
+
 Bigfight Deathmatch by Steve Lamb
+
+Camp Hell by Berny Hiscock
 
 Carnage, Hans Island, Proxyon Sector KGx/57 mini Episode, Proxyon Military Base, Attack Station KGx/57, Fists of Fury and Control Station KGx/57 (Single-Player & Deathmatch) by Scott McNutt
 
@@ -134,11 +138,15 @@ The Odyssey by John Adlington for PC Gamer Magazine
 
 PARANOID Deathmatch level #4 by Richard Jaspars 'Styx'
 
+Perplexd: The Ultimate Deathmatch by Chris Randoph
+
 Phoenix3 AKA DoomZaak by R.L.L. Timmermans
 
 Planetfall by Andy Brewood
 
 Psych01 by Jas
+
+Run darn you RUN by B.P.R.D
 
 The Savage Series by Creature (Dan Tyrrell)
 
