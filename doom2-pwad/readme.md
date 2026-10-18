@@ -118,6 +118,8 @@ Lego Base (including Enhanced and Original Cut) by Russell Pearson
 
 Lounge_2 by MéKä
 
+MARS2 by William Green
+
 Massacre by Ryan Wood & David Hosei
 
 Metamorphism by Brad Spencer and Karthik Abhiram
@@ -186,7 +188,7 @@ U.A.C. Power Station by John D. Corrado a.k.a. DOOMFLYNN
 
 UACOMM2 by Minotaur
 
-URBAN01 by Gragam Evans
+URBAN01 & The Moria Incedent by Gragam Evans
 
 Vire35 by Peter Redutko
 
