@@ -30,11 +30,17 @@ Catharsis by David Butler
 
 The Chaingun Castle by Phil Purbrick
 
+CHAPEL OF ROMERO by Ken Hukushi
+
+CJZWAD by Cyber JUnkie aka Tony Callis
+
 The Cobra Episodes (Volumes 1, 2 & 3) by Cobra Computing
 
 Cobug Deathmatch V1.3 by unknown author
 
 Cobug Deathmatch II Closer To Hell by Unknown Author
+
+COOL Level by Dejan Oklobdzija
 
 Cremation by Phil Leverance
 
@@ -94,6 +100,8 @@ The Illness by Echo
 
 Kaoswar by Sartori
 
+Kewl by unknown author
+
 KOOLEST by Brian Baker and Rob Maxey
 
 Labyrinth of Reckless Thoughts by Gereon P.J. Meuser
@@ -117,6 +125,8 @@ Mike's version of HOBOKEN by Michael Lundy
 The Military Base by Ilkka Kunttu
 
 Murderous Intent by Jay Townsend
+
+My Doom II Level by Nick Wiszkowski
 
 Odessa series by Bob Evans
 
@@ -167,6 +177,8 @@ U_TALON by unknown author
 U.A.C. Power Station by John D. Corrado a.k.a. DOOMFLYNN
 
 UACOMM2 by Minotaur
+
+URBAN01 by Gragam Evans
 
 Vire35 by Peter Redutko
 
