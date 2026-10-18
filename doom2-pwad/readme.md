@@ -72,11 +72,17 @@ Edna by Craig Johnson
 
 Enjay Doom 2 by Enjay
 
+EPA HOLD-UP v1.05.3 by Benjiman R. Lierman
+
 Escape From Doom2 (Snake1) by Marc Bright
 
 Eternal Doom by Team Eternal
 
 Fort Frag by Neil Basso (Dr.Death) and David Dyess (Damage INC.)
+
+Fortress of the Damned by Dave Jessop
+
+Fortress of the Seven by Sonny Wasinger (CONDUCTOR)
 
 GAK1 by GAK
 
@@ -148,11 +154,15 @@ Planetfall by Andy Brewood
 
 Psych01 by Jas
 
+RRTAWAD By Handy
+
 Run darn you RUN by B.P.R.D
 
 The Savage Series by Creature (Dan Tyrrell)
 
 SB27 (2FIFFY3) by George Fiffy
+
+Search and Destroy by Baked, Not Fried
 
 SEMATIC by Insane LTD
 
