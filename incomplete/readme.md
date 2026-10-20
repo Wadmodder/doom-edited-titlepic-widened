@@ -6,6 +6,8 @@ After Nightfalls by Daniel Gimmer (Tormentor667)
 
 Geek5 "The Destruction of Dan Goldman V.5" by Bork the Indestructible
 
+Kashmir by Mr Ginger
+
 Lucifer by T.J. Hiller
 
 Mariko Kouda DOOM ][ by	Yukio Ide
