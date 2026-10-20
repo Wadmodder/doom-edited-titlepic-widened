@@ -90,6 +90,8 @@ Geeky Doom II by unknown author
 
 GMC.WAD by Grant Marko
 
+Go For It by A E Brown
+
 The Flynest by The Flymaster
 
 The Gods of Sin by Lord J
@@ -107,6 +109,8 @@ Herian 1 & 2 by Ian Wilson
 IFRAG.WAD by unknown author
 
 The Illness by Echo
+
+Kaos by Marg & Ferran Bascunana Jansa
 
 Kaoswar by Sartori
 
@@ -205,5 +209,7 @@ Vire35 by Peter Redutko
 Wadpak01 (Digital Warfare) by unknown author
 
 Waterworld by Steve Schulte
+
+Wicked's Deathmatch Arena by Doug Frei (\/\/icked)
 
 ZINJJ by unknown author
