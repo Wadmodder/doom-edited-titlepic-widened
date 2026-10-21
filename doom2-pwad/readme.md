@@ -84,6 +84,8 @@ Fortress of the Damned by Dave Jessop
 
 Fortress of the Seven by Sonny Wasinger (CONDUCTOR)
 
+FrenzyDM by Qingshuo Wang (piXel reX)
+
 GAK1 by GAK
 
 Geeky Doom II by unknown author
