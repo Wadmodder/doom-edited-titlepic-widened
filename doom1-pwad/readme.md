@@ -34,6 +34,8 @@ Shades by unknown author
 
 Serenity, Eternity & Infinity by Bjorn Hermans and Holger Nathrath
 
+The Dismantled Jellyfish by Adrian Cable
+
 Thunder2 by Patrick Woods
 
 Tibet by Keith Sheehan
