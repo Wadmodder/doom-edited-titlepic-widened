@@ -168,6 +168,8 @@ The Savage Series by Creature (Dan Tyrrell)
 
 SB27 (2FIFFY3) by George Fiffy
 
+Schrafel Doom II (NEWDOOM) by Peter and Douglas Schrafel
+
 Search and Destroy by Baked, Not Fried
 
 SEMATIC by Insane LTD
