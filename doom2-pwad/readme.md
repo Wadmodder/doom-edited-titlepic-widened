@@ -78,6 +78,8 @@ Escape From Doom2 (Snake1) by Marc Bright
 
 Eternal Doom by Team Eternal
 
+Final Sacrifice for DOOM ][ by Todd Persen
+
 Fort Frag by Neil Basso (Dr.Death) and David Dyess (Damage INC.)
 
 Fortress of the Damned by Dave Jessop
@@ -185,6 +187,8 @@ Star Ship ATC by Kyle Smith
 Station Alpha Omega by Giac Veltri
 
 Subjugated by Jeff Tunink
+
+SUFFER by Jose Luis Gallardo
 
 Surge DM by Nick Baker
 
