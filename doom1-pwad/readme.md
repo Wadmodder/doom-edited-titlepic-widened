@@ -28,6 +28,8 @@ NewDoom v1.10 Graphics Patch by KM Software
 
 Nightfall by Josh Fallon
 
+The Pits of Doom by Reptile
+
 Proxyon Military Base and Control Station KGx/57 (Doom 1 Conversion) by Scott McNutt
 
 Shades by unknown author
