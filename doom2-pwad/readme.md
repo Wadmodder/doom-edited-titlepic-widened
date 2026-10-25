@@ -156,6 +156,8 @@ The Odyssey by John Adlington for PC Gamer Magazine
 
 PARANOID Deathmatch level #4 by Richard Jaspars 'Styx'
 
+Path of a Fallen Angel by Darrell Esau
+
 Perplexd: The Ultimate Deathmatch by Chris Randoph
 
 Phoenix3 AKA DoomZaak by R.L.L. Timmermans
