@@ -132,6 +132,8 @@ Lego Base (including Enhanced and Original Cut) by Russell Pearson
 
 Lounge_2 by MéKä
 
+MAK's Doomdom for Doom ][ by Martin A. Krebs "The MAK"
+
 MARS2 by William Green
 
 Massacre by Ryan Wood & David Hosei
