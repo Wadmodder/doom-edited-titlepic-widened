@@ -36,6 +36,8 @@ Shades by unknown author
 
 Serenity, Eternity & Infinity by Bjorn Hermans and Holger Nathrath
 
+The Sky May Be by Dough The Eagle
+
 The Dismantled Jellyfish by Adrian Cable
 
 Thunder2 by Patrick Woods
