@@ -10,6 +10,8 @@ Kashmir by Mr Ginger
 
 Lucifer by T.J. Hiller
 
+LUM by wayne
+
 Mariko Kouda DOOM ][ by	Yukio Ide
 
 Necromania! by James Blachly and Brandon Goza
