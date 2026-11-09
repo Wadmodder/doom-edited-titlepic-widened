@@ -32,7 +32,7 @@ The Pits of Doom by Reptile
 
 Proxyon Military Base and Control Station KGx/57 (Doom 1 Conversion) by Scott McNutt
 
-Shades by unknown author
+Shades by Enjay
 
 Serenity, Eternity & Infinity by Bjorn Hermans and Holger Nathrath
 
